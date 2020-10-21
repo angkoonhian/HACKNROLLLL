@@ -8,3 +8,4 @@ A telegram chat bot that helps you track your debts!
 |/Take (Name) (Amount)|Said name pays you and tracker sums it up accordingly|
 |/Balance|Displays your current balance with various other people|
 
+<img src="hacknrollPNG/start.png" width="700">
