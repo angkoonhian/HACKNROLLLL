@@ -1,4 +1,4 @@
-# HACKNROLL
+# HACKNROLL (ShaoKiat Loan Shark)
 A telegram chat bot that helps you track your debts!
 
 |key features|Description|
